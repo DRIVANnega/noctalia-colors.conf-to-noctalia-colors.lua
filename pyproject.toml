@@ -1,0 +1,7 @@
+[project]
+name = "hyprConfToLua"
+version = "0.1.0"
+description = "Python script to convert hyprland conf files to lua"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
