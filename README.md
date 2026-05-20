@@ -7,7 +7,7 @@ PLEASE DO BACKUP BEFORE TESTING, PLEASEEEE.
 
 I made easy script to use with hyprland.lua 
 
-# first step is add this line end of file or begining of file
+# first step is add this line end of file or begining of file of hyprland.lua in your "/.config/hypr" folder
 
 require("noctalia-colors")
 
