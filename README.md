@@ -20,7 +20,7 @@ require("noctalia-colors")
  
 # 3rd step 
 
-copy or move this made bash script "noctalia.sh" into either "/usr/bin" foler or your "/usr/local/bin" for easier location without entire bin files to sort through
+copy or move this made bash script "noctalia.sh" into either "/usr/bin" or your "/usr/local/bin" for easier location without entire bin files to sort through
 then goto your noctalia owl icon control-center again, this time you will use noctalia hooks to execute comands automatic by activate it and goto to hooks subpanel options , look for only Colors generated,  click on edit icon... the launch window will appear to add your command with this in the line : "bash noctalia.sh"
 
 
